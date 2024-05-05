@@ -1,5 +1,5 @@
 # TreeHacks 2024
-![alt text]([http://url/to/img.png](https://pbs.twimg.com/media/GG81efEakAAHkm-?format=jpg&name=medium))
+![alt text](https://pbs.twimg.com/media/GG81efEakAAHkm-?format=jpg&name=medium)
 
 ## Awards ($8,000+)
 WINNER Most Impactful Hack 
