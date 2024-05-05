@@ -6,8 +6,8 @@ Built Vision Pro Assisted First-Aid Care at TreeHacks. We ran computer vision on
 [![Video Demo](https://img.youtube.com/vi/r6CRiycOKFQ/0.jpg)](https://www.youtube.com/watch?v=r6CRiycOKFQ)
 
 ## Awards ($8,000+)
-WINNER Most Impactful Hack 
-WINNER TerraAPI: Health Prize 
+WINNER Most Impactful Hack,
+WINNER TerraAPI: Health Prize, and 
 WINNER BGB Group: Informed Physicians Prize 
 
 ## Team
