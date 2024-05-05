@@ -1,4 +1,5 @@
 # TreeHacks 2024
+![alt text]([http://url/to/img.png](https://pbs.twimg.com/media/GG81efEakAAHkm-?format=jpg&name=medium))
 
 ## Awards ($8,000+)
 WINNER Most Impactful Hack 
@@ -10,6 +11,9 @@ Built Vision Pro Assisted First-Aid Care at TreeHacks. We ran computer vision on
 
 ## Video Demo
 [![Video Demo](https://img.youtube.com/vi/r6CRiycOKFQ/0.jpg)](https://www.youtube.com/watch?v=r6CRiycOKFQ)
+
+## Team
+Yash Dulla, Shutaro Aoyama, Ray Hotate, and Shloak Rathod
 
 ## Online Traction 
 <a href="https://x.com/AlexReibman/status/1759542691157979281" target="_blank">300k+ X views</a>
